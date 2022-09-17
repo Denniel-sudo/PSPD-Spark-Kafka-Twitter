@@ -1,0 +1,22 @@
+,timestamp,word,len_word
+,timestamp,word,len_word
+0,2022-09-17 18:33:59.381,123456,6
+1,2022-09-17 18:34:02.135,12345678,8
+2,2022-09-17 18:34:10.150,12345678911,11
+3,2022-09-17 18:34:15.707,eaeaee,6
+4,2022-09-17 18:34:23.001,koerap,6
+5,2022-09-17 18:34:26.705,galrinha,8
+6,2022-09-17 18:34:40.368,salvam,6
+7,2022-09-17 18:34:47.449,sabemt,6
+,current_timestamp,count
+0,2022-09-17 18:50:56.012,8
+,current_timestamp,count
+0,2022-09-17 18:53:05.781,8
+,current_timestamp,count
+0,2022-09-17 18:53:50.413,4
+,current_timestamp,count
+0,2022-09-17 18:54:01.354,1
+,current_timestamp,count
+0,2022-09-17 18:57:22.321,3
+,current_timestamp,count
+0,2022-09-17 18:57:41.982,1
