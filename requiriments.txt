@@ -1,0 +1,7 @@
+python3
+tweepy
+numpy
+pyspark
+kafka-python
+python-dotenv
+jupyter
